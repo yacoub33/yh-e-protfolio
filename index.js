@@ -1,3 +1,5 @@
+"use strict";
+
 // template_0d2kot3
 // service_72bprxd
 // v8w7MJZ6Wg8zm3tIU
